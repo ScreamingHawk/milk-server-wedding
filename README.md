@@ -1,1 +1,2 @@
-# milk-server-wedding
+# Wedding Website
+A website for my wedding. 
